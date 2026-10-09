@@ -1,0 +1,3 @@
+my name is Nishchith Gowda
+I am a computer Science engineering student
+I am Learning Git and GitHub for Placements.
